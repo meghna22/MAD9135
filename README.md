@@ -8,4 +8,4 @@ Simon MacDonald - macdonst
 
 Students
 ========
-Hanxuan Zhou ---- xuexueMaGicK
+Hanxuan Zhou (Geno) - xuexueMaGicK
