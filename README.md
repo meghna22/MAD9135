@@ -20,3 +20,4 @@ Andrew Hillier (hill0243)
 Richard Jackson - rjacksn
 Ian MacDonald - icpmacdo
 Timotius Oktorio (kimtimotius)
+Thomas Wiegand
