@@ -8,3 +8,4 @@ Simon MacDonald - macdonst
 
 Students
 ========
+Chad "ChadMaron" Maron 
