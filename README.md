@@ -10,3 +10,4 @@ Students
 ========
 
 egun0001 Dmitry Egunov
+Ryan Haupt haup0002
