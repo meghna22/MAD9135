@@ -8,4 +8,4 @@ Simon MacDonald - macdonst
 
 Students
 ========
-Hanji Yu(yuhanji2014)
+Hanji Yu (yuhanji2014)
