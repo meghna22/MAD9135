@@ -8,3 +8,5 @@ Simon MacDonald - macdonst
 
 Students
 ========
+
+egun0001 Dmitry Egunov
