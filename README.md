@@ -24,3 +24,4 @@ Thomas Wiegand
 Shisong Yuan(Angus)
 Gina Mazzolin
 Warren Butland - warrenbutland
+Kirk Davies (davi0534)
